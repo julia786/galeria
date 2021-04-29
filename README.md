@@ -1,8 +1,10 @@
 
-	
-    RUDY KOT 2021</span></h1>
+	<html>
+     <head>
+          <meta charset="UTF-8" />
+		  <h1><span style="color: yellow">RUDY KOT 2021</span></h1>
      </head>
-     <body> 
+     <body> <body style="background-color: black; color: white">
 	 <h2>Rudy kot </h2>
 	 <p><a href="https://scontent.xx.fbcdn.net/v/t1.15752-0/s206x206/179304815_1110194892781353_8150886643545360640_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=58c789&_nc_ohc=HVd9Ge3sXy4AX8ptw5c&_nc_oc=AQkRQKiaMTwGOlUgC35YyAd7WKKmpx8enl2CCTNu6U0AN3R3YJTgLjqtNRMwML06K8yk-yg7F_U9iGaaMaKE5Epx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=2d96b52d7553dafa6d87413b4df5b31a&oe=60AF250D"><img src="kot/kot1.jpg" width="100" height="100" /></a>
 	 <a href="https://scontent.xx.fbcdn.net/v/t1.15752-0/s206x206/179513723_483803369530864_3067773683977737287_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=58c789&_nc_ohc=F6RMhWvEtzIAX9dKXTT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=ff720d17569cf2c46a4e921ef45dbecd&oe=60B0E3BA"><img src="kot/kot2.jpg" width="100" height="100" /></a>
